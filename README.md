@@ -1,7 +1,7 @@
  <!-- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png) -->
  <h1 align="center">Hi 👋, I'm Saikiran Deekonda</h1>
  <!-- <h3 align="center">A passionate Software Engineer from India</h3> -->
- <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center">A passionate developer from India</h3>
  <!-- <h3 align="center">Full Stack Developer</h3> -->
  <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=20&center=true&vCenter=true&width=550&height=60&lines=Hello+👋,+I'm+Saikiran!;+Passionate+Full+Stack+Developer+🚀;+Building+innovative+products+is+my+passion+✨;+Speaker+and+Mentor+in+Tech+Communities+🎤;+⏳+On+a+mission+to+empower+through+technology!;">
