@@ -27,7 +27,7 @@
  
  
  
- - 🌱 I'm currently exploring **BlockChain Technology**
+ - 🌱 I'm currently learning **Rust language**
  
  - 👯 I'm looking to collaborate on **MERN Project**
  
