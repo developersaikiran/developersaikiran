@@ -31,7 +31,7 @@
  
  - 👯 I'm looking to collaborate on **MERN Project**
  
- - 💬 Ask me about **Javascript, DSA**
+ - 💬 Ask me about **Javascript**
  
  - 📫 How to reach me **developer.sai65@gmail.com**
  
