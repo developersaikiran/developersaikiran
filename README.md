@@ -53,9 +53,9 @@
      <a rel="noreferrer"> 
          <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png"  width="40" height="40"/> 
      </a>
-     <a rel="noreferrer" > 
+<!--      <a rel="noreferrer" > 
          <img src="https://img.icons8.com/?size=80&id=sh3mEpjaKHWj&format=png"  width="40" height="40"/> 
-     </a>
+     </a> -->
      <a rel="noreferrer" > 
          <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  width="40" height="40"/> 
      </a>
@@ -77,9 +77,9 @@
      <a rel="noreferrer"> 
          <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"  width="40" height="40"/> 
      </a>
-     <a rel="noreferrer"> 
+<!--      <a rel="noreferrer"> 
          <img src="https://img.icons8.com/?size=48&id=nUFOCFvI5eIk&format=png"  width="40" height="40"/> 
-     </a>
+     </a> -->
      <a rel="noreferrer"> 
          <img src="https://cdn-icons-png.flaticon.com/128/7067/7067846.png"  width="40" height="40"/> 
      </a>
