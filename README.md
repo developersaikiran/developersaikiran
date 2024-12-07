@@ -27,7 +27,7 @@
  
  
  
- - 🌱 I'm currently learning **Rust language**
+ - 🌱 I'm currently learning **DevOps**
  
  - 👯 I'm looking to collaborate on **MERN Project**
  
@@ -35,7 +35,7 @@
  
  - 📫 How to reach me **developer.sai65@gmail.com**
  
- - 📄 Know about my experiences [https://saikirandeekonda.com](https://saikirandeekonda.herokuapp.com/)
+ - 📄 Know about my experiences [https://developersaikiran.github.io](https://saikirandeekonda.herokuapp.com/)
  
  
  
