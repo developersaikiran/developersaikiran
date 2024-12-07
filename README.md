@@ -8,17 +8,20 @@
  </p> 
  
  <div align="center">
-     <a href="https://instagram.com/saikiran_deekonda">
-         <img src="https://img.shields.io/badge/@saikiran.deekonda-30302f?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
-     </a>
      <a href="https://linkedin.com/in/saikiran-deekonda">
          <img src="https://img.shields.io/badge/saikiran-30302f?style=flat&logo=linkedin" alt="Linkedin Badge">
+     </a>
+     <a href="https://medium.com/@saikirand">
+         <img src="https://img.shields.io/badge/saikiran-30302f?style=flat&logo=medium" alt="Linkedin Badge">
+     </a>
+     <a href="https://instagram.com/saikiran_deekonda">
+         <img src="https://img.shields.io/badge/@saikiran.deekonda-30302f?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">
      </a>
      <a href="mailto:developer.sai65@gmail.com">
          <img src="https://img.shields.io/badge/developer.sai65@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
      </a>
      <a href="https://twitter.com/DeveloperSai65">
-         <img src="https://img.shields.io/badge/DeveloperSai65-30302f?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge">
+         <img src="https://img.shields.io/badge/DeveloperSai65-30302f?style=flat&logo=x&logoColor=white" alt="Twitter Badge">
      </a>
      <a >
          <img src="https://komarev.com/ghpvc/?username=developersaikiran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
