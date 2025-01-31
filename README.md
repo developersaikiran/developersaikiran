@@ -74,9 +74,9 @@
      <a rel="noreferrer"> 
          <img src="https://img.icons8.com/?size=48&id=123603&format=png"  width="40" height="40"/> 
      </a>
-     <a rel="noreferrer"> 
+<!--      <a rel="noreferrer"> 
          <img src="https://img.icons8.com/?size=48&id=71257&format=png"  width="40" height="40"/> 
-     </a>
+     </a> -->
      <a rel="noreferrer"> 
          <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"  width="40" height="40"/> 
      </a>
@@ -86,9 +86,9 @@
      <a rel="noreferrer"> 
          <img src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png"  width="50" height="40"/> 
      </a>
-     <a rel="noreferrer"> 
+<!--      <a rel="noreferrer"> 
          <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"  width="40" height="40"/> 
-     </a>
+     </a> -->
 <!--      <a rel="noreferrer"> 
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sZOLcWtc4bHoDBS5VjsA3oZMmTg34IGtbRcL1CCZ0qOO5FWlFK5Q9NR0qJost8e49PE&usqp=CAU"  width="40" height="40"/> 
      </a> -->
